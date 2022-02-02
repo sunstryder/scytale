@@ -13,7 +13,6 @@ export default {
   logo: (
     <>
     <svg>...</svg>
-    < span > Next.js Static Site Generator</ span >
   </>
   ),
 head: (
